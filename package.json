@@ -22,7 +22,7 @@
     "lodash": "^4.17.21",
     "nostr-tools": "^1.15.0",
     "rxjs": "^5.5.12",
-    "toucan-js": "^3.4.0",
+    "toucan-js": "^4.0.0",
     "web-vitals": "^3.5.2",
     "webpack": "^4.44.2"
   }
