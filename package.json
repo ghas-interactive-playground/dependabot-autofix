@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "keycloak-js": "^10.0.2",
     "lodash": "^4.17.21",
-    "nostr-tools": "^1.15.0",
+    "nostr-tools": "^2.10.4",
     "rxjs": "^5.5.12",
     "toucan-js": "^3.4.0",
     "web-vitals": "^3.5.2",
